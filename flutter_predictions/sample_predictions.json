@@ -1,0 +1,3102 @@
+[
+  {
+    "input_features": [
+      1.0909911364744505,
+      1.394677138435839,
+      3.731056811592837,
+      0.7092737626743076,
+      2.296120773282565,
+      142.76292012398648,
+      0.933814412841691,
+      0.0005602696528735629
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9428196958634296,
+      "peak_velocity": 1.3578644526067918,
+      "rfd": 711.8376745491374,
+      "power": 102.37190599074593,
+      "rom": 0.622958374787972
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.027132722778776833,
+      "velocity_loss": 0.0009508887093486046,
+      "remaining_reps": 9.554899349730455
+    }
+  },
+  {
+    "input_features": [
+      0.98706066907612,
+      1.2825535447689873,
+      4.3236608443901,
+      0.6601971500987854,
+      2.165095660827542,
+      101.80133416640231,
+      0.9541273046722318,
+      0.026995776303133892
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9435663405107644,
+      "peak_velocity": 1.281507030047289,
+      "rfd": 900.2367457760696,
+      "power": 86.97365876012647,
+      "rom": 0.6089402049875929
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.029091753139078774,
+      "velocity_loss": 0.04358182800080915,
+      "remaining_reps": 9.585395938443277
+    }
+  },
+  {
+    "input_features": [
+      0.72509770004501,
+      0.9227564145955173,
+      2.97083766686345,
+      0.6118052324414798,
+      1.677764320562745,
+      126.55328866262224,
+      0.9872008853499987,
+      0.028895730492609007
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7526329818373325,
+      "peak_velocity": 0.9823407674536058,
+      "rfd": 625.6265536867503,
+      "power": 74.32755652456044,
+      "rom": 0.6170388139356294
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.038325755806492195,
+      "velocity_loss": 0.01014365065124058,
+      "remaining_reps": 9.634463898230653
+    }
+  },
+  {
+    "input_features": [
+      0.6946733116585012,
+      0.8425728948989665,
+      2.6594650524963086,
+      0.5238704097021971,
+      1.7389936047509862,
+      90.61416879338618,
+      0.950574405075243,
+      0.019552763851721555
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7245971216611289,
+      "peak_velocity": 0.9694408068854211,
+      "rfd": 497.7614951997981,
+      "power": 64.94122418938717,
+      "rom": 0.5860753234826998
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.053032732256487775,
+      "velocity_loss": 0.04384343670994924,
+      "remaining_reps": 9.454636171424992
+    }
+  },
+  {
+    "input_features": [
+      0.846413033563112,
+      1.2903064551889292,
+      4.48634099766556,
+      0.5503410980281854,
+      1.6397855064579736,
+      83.35038743429297,
+      0.9796968410478956,
+      0.035149659211155024
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8294619227600848,
+      "peak_velocity": 1.1702697821901662,
+      "rfd": 948.132169007082,
+      "power": 66.64112498946298,
+      "rom": 0.5562081946781026
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.038802098118576614,
+      "velocity_loss": 0.030172354368917936,
+      "remaining_reps": 9.40272514205707
+    }
+  },
+  {
+    "input_features": [
+      0.7807447080401477,
+      0.8631312477274679,
+      4.0654675318397215,
+      0.8155073866765638,
+      1.8129929911054987,
+      140.34258539436115,
+      0.9555867867678729,
+      0.013836764738687508
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7616104955349808,
+      "peak_velocity": 1.0504993991957199,
+      "rfd": 772.3904880742498,
+      "power": 80.05948820034939,
+      "rom": 0.6739825001597353
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.02422667462571798,
+      "velocity_loss": -0.010946612269957287,
+      "remaining_reps": 9.058377524366236
+    }
+  },
+  {
+    "input_features": [
+      0.6004272901724507,
+      0.8070536786385915,
+      5.9072635092042916,
+      0.5823030665656779,
+      2.3249813597109457,
+      116.48576493182549,
+      0.9438939106928396,
+      0.04486227394421305
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6461531580221451,
+      "peak_velocity": 0.8838388545530625,
+      "rfd": 1234.242845159239,
+      "power": 78.30041684685585,
+      "rom": 0.5928464097256638
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.043227332376972905,
+      "velocity_loss": 0.01216063548861368,
+      "remaining_reps": 8.87925102466526
+    }
+  },
+  {
+    "input_features": [
+      0.5543025364295247,
+      0.6643776947923491,
+      5.397244481558056,
+      0.662588468217693,
+      2.2399404535494685,
+      133.33471724065316,
+      0.9640955983040994,
+      0.01896853079197493
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.654649597497372,
+      "peak_velocity": 0.8879304786584477,
+      "rfd": 1066.2295204749262,
+      "power": 78.50425100355748,
+      "rom": 0.620089749366705
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.06600496370254749,
+      "velocity_loss": 0.03197892541376807,
+      "remaining_reps": 8.288557545230274
+    }
+  },
+  {
+    "input_features": [
+      1.0613721031959067,
+      1.2435335675640473,
+      4.200286441461794,
+      0.5768920263087056,
+      2.425492240977781,
+      109.92511319467344,
+      0.9519326492024653,
+      0.036900307310067354
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9597280205686249,
+      "peak_velocity": 1.2791517841424318,
+      "rfd": 895.5981118596856,
+      "power": 70.23327429910108,
+      "rom": 0.594020748413704
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.04625999128278648,
+      "velocity_loss": 0.047909327401133864,
+      "remaining_reps": 9.644602280257665
+    }
+  },
+  {
+    "input_features": [
+      0.5178775987762778,
+      0.6029020787545927,
+      4.689031176278264,
+      0.48867086875121474,
+      1.7076497554590595,
+      144.99588485921237,
+      0.9204777381930689,
+      0.008326961604991601
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6224602208504317,
+      "peak_velocity": 0.7851979745279587,
+      "rfd": 961.577929884208,
+      "power": 53.040117837667886,
+      "rom": 0.5559665230609016
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.12922232869069777,
+      "velocity_loss": 0.03733566348213911,
+      "remaining_reps": 7.812966140424151
+    }
+  },
+  {
+    "input_features": [
+      0.9152466907786285,
+      1.1168239599198362,
+      3.7530352316077704,
+      0.6898667391789106,
+      2.07416764102079,
+      86.79479666631809,
+      0.9064151447365235,
+      0.04431156891912381
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8135181705398149,
+      "peak_velocity": 1.1539744752704457,
+      "rfd": 704.5381906451456,
+      "power": 52.509587444978045,
+      "rom": 0.637438816254228
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.006054066461257099,
+      "velocity_loss": 0.05636382225980059,
+      "remaining_reps": 9.743967991928345
+    }
+  },
+  {
+    "input_features": [
+      0.5900881467282781,
+      0.6573478598394332,
+      3.765262182986124,
+      0.535399089182734,
+      2.1636431853918396,
+      89.46336614530244,
+      0.9255682626207381,
+      0.047580970495609005
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6934355039285915,
+      "peak_velocity": 0.9888640851318423,
+      "rfd": 712.5978885508988,
+      "power": 39.909673813931406,
+      "rom": 0.5959938613990623
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.039279145743081584,
+      "velocity_loss": 0.02813784648294579,
+      "remaining_reps": 9.281719586484646
+    }
+  },
+  {
+    "input_features": [
+      0.6708959601216423,
+      0.8993363509172759,
+      4.594489129883649,
+      0.7050903492883083,
+      1.9726475272772694,
+      118.21807563658191,
+      0.9932137526840351,
+      0.00847118700987053
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6272411007146826,
+      "peak_velocity": 0.8764354892204531,
+      "rfd": 972.8837388419264,
+      "power": 43.909036017587916,
+      "rom": 0.6016913021386991
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.028016491230301407,
+      "velocity_loss": 0.016385077325727262,
+      "remaining_reps": 9.133006376502598
+    }
+  },
+  {
+    "input_features": [
+      0.518935409044105,
+      0.6108663078278271,
+      4.055444995205816,
+      0.46182504635895194,
+      1.9223789294513616,
+      136.8948966652169,
+      0.9254736277637513,
+      0.020855235812201212
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.612015855279196,
+      "peak_velocity": 0.8001899922067666,
+      "rfd": 816.0993331223887,
+      "power": 57.510032096102606,
+      "rom": 0.5386429489970537
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.11141835820852072,
+      "velocity_loss": 0.02939770959779242,
+      "remaining_reps": 7.914471061805551
+    }
+  },
+  {
+    "input_features": [
+      1.0054191739368086,
+      1.2810483423238619,
+      4.086980770337758,
+      0.5264509909307445,
+      1.5048274820100038,
+      133.40967505659242,
+      0.9128635171899,
+      0.048702845643507596
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9696397761325862,
+      "peak_velocity": 1.3193782469776416,
+      "rfd": 811.3347583828601,
+      "power": 103.83795476081747,
+      "rom": 0.5940158387631819
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.07515692100291357,
+      "velocity_loss": 0.007907874114917376,
+      "remaining_reps": 10.098177829522824
+    }
+  },
+  {
+    "input_features": [
+      0.6936748823645493,
+      0.9084065018540892,
+      2.0291316770473493,
+      0.6704214701913904,
+      1.746119893439834,
+      98.60335227407919,
+      0.9038538333396938,
+      0.043886098372032216
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7100587368221606,
+      "peak_velocity": 0.941090288105243,
+      "rfd": 403.02944497404775,
+      "power": 58.27478979592927,
+      "rom": 0.6233634525261645
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.06759282966466579,
+      "velocity_loss": 0.044975813979234114,
+      "remaining_reps": 9.238497063197885
+    }
+  },
+  {
+    "input_features": [
+      0.8300293322676204,
+      1.1256943164457383,
+      3.7512113337108284,
+      0.6201280289767911,
+      1.732785405268924,
+      146.8602533558797,
+      0.9512222639907367,
+      0.0003706779406979999
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7847448587529557,
+      "peak_velocity": 1.1171069759892402,
+      "rfd": 732.3933247530745,
+      "power": 81.32085444517433,
+      "rom": 0.596306021856644
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.029826346947258345,
+      "velocity_loss": -0.015390544171239043,
+      "remaining_reps": 9.234917020946622
+    }
+  },
+  {
+    "input_features": [
+      0.5643562348660789,
+      0.7184007382004913,
+      2.4347122396948553,
+      0.59424514048816,
+      1.9934747106576824,
+      79.30685779270236,
+      0.9550886561222733,
+      0.034780245219224265
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.5938947951563681,
+      "peak_velocity": 0.8231690290233282,
+      "rfd": 444.48893927499125,
+      "power": 34.607429290781,
+      "rom": 0.626985400659316
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.06330090393244112,
+      "velocity_loss": 0.03886457005830937,
+      "remaining_reps": 9.099955155120483
+    }
+  },
+  {
+    "input_features": [
+      1.1075292067380997,
+      1.369565638510459,
+      3.54209423500556,
+      0.6966733320344507,
+      2.1870561066134977,
+      103.92898623496875,
+      0.9003490105851905,
+      0.04689859697749179
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.940709095289393,
+      "peak_velocity": 1.3587742498810442,
+      "rfd": 704.9162174624425,
+      "power": 79.54598281847986,
+      "rom": 0.633158163031336
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.026417676350527032,
+      "velocity_loss": 0.06395555269731136,
+      "remaining_reps": 10.176915820842012
+    }
+  },
+  {
+    "input_features": [
+      0.781123084788063,
+      0.9893917173156942,
+      2.0037880024511736,
+      0.37667279462353226,
+      2.3460805429420555,
+      131.94950297457345,
+      0.9930706409664446,
+      0.004320602605943413
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7595751606186514,
+      "peak_velocity": 0.967741238978266,
+      "rfd": 444.18442723042665,
+      "power": 47.40705996902887,
+      "rom": 0.5941639970186475
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.042576642836001,
+      "velocity_loss": 0.055330303838640224,
+      "remaining_reps": 9.58220287205075
+    }
+  },
+  {
+    "input_features": [
+      0.7333062697923701,
+      0.9730709834096274,
+      2.7944767208600028,
+      0.5962861555055614,
+      1.5166239116593492,
+      107.14472134463954,
+      0.9624659593879911,
+      0.04346349144349974
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7386077114600482,
+      "peak_velocity": 0.9409223672287829,
+      "rfd": 481.1711863153823,
+      "power": 65.98720682300056,
+      "rom": 0.6020940000856796
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.051286897081161104,
+      "velocity_loss": 0.03129043339306262,
+      "remaining_reps": 9.705639427485213
+    }
+  },
+  {
+    "input_features": [
+      0.895216497955641,
+      1.230084725300837,
+      5.290671795575394,
+      0.564365414686874,
+      1.7775764223533195,
+      136.59939039172107,
+      0.947223254276651,
+      0.02517873817188092
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8714570165219813,
+      "peak_velocity": 1.2242436081415053,
+      "rfd": 1064.8740433389278,
+      "power": 102.83193093692158,
+      "rom": 0.607168322197298
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.020972397772581905,
+      "velocity_loss": 0.013671907208515147,
+      "remaining_reps": 9.437062839260898
+    }
+  },
+  {
+    "input_features": [
+      0.9334925143978059,
+      1.0998602309422874,
+      3.6724061185000743,
+      0.6745251108644205,
+      1.5391730502140277,
+      133.41752894674642,
+      0.9474959736992318,
+      0.016973451110985232
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8237684096148504,
+      "peak_velocity": 1.136754242572822,
+      "rfd": 671.6823975172643,
+      "power": 74.02929748451729,
+      "rom": 0.610883695188799
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.02781578641298757,
+      "velocity_loss": 0.01002315481818572,
+      "remaining_reps": 9.58016028865188
+    }
+  },
+  {
+    "input_features": [
+      1.017886559644405,
+      1.2378596926189867,
+      3.835916430378064,
+      0.44800817945012983,
+      1.9630428599711784,
+      123.1724959271151,
+      0.9452381479541143,
+      0.012615004041920987
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.903329068566543,
+      "peak_velocity": 1.2255896634675865,
+      "rfd": 779.1018366153672,
+      "power": 91.48022111353698,
+      "rom": 0.5514996291383102
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.03851168624565661,
+      "velocity_loss": 0.05547473102797103,
+      "remaining_reps": 9.775288424550576
+    }
+  },
+  {
+    "input_features": [
+      0.9032887980951182,
+      1.2163494357813949,
+      5.572126336472145,
+      0.5626544798582582,
+      1.4465310685325934,
+      137.4193670497744,
+      0.9998757548044418,
+      0.044964115363718
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8810216512464559,
+      "peak_velocity": 1.2256240982465472,
+      "rfd": 1091.6172004689197,
+      "power": 113.31897773593226,
+      "rom": 0.586972040881691
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.012897396049083312,
+      "velocity_loss": 0.002769168683190354,
+      "remaining_reps": 9.790364762222197
+    }
+  },
+  {
+    "input_features": [
+      1.039333287656847,
+      1.4269597625439596,
+      4.814119142033985,
+      0.6944728160294277,
+      2.120421908688007,
+      109.44649982597328,
+      0.9181729510197993,
+      0.038402486213460325
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9326596054955398,
+      "peak_velocity": 1.2978009024683346,
+      "rfd": 964.4412824573684,
+      "power": 74.25064071911828,
+      "rom": 0.6267731664295416
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.008571580415355884,
+      "velocity_loss": 0.04727344590417208,
+      "remaining_reps": 9.987915803508395
+    }
+  },
+  {
+    "input_features": [
+      0.7533523055662978,
+      1.025820550433337,
+      3.2911752357561044,
+      0.6886459102136452,
+      2.047455050254162,
+      115.54207897459177,
+      0.9779870157903575,
+      0.04066155852787709
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.720534720033955,
+      "peak_velocity": 0.9484516249156902,
+      "rfd": 678.5255498513137,
+      "power": 51.00479255736141,
+      "rom": 0.6281017376080527
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.018277256292523164,
+      "velocity_loss": 0.011256051194873773,
+      "remaining_reps": 9.478607732212856
+    }
+  },
+  {
+    "input_features": [
+      0.8763236478199636,
+      1.0498505276161747,
+      2.456401283827171,
+      0.6255706208420556,
+      1.9440465471693196,
+      82.38563275611472,
+      0.9759247651968342,
+      0.018065520778953792
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7976957292998316,
+      "peak_velocity": 1.0739269015237225,
+      "rfd": 498.8239975709312,
+      "power": 52.39868155038915,
+      "rom": 0.6096844921393332
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.013630097703616867,
+      "velocity_loss": 0.03708754395339191,
+      "remaining_reps": 9.629236125606472
+    }
+  },
+  {
+    "input_features": [
+      0.6867706120282893,
+      0.9076425559988978,
+      3.4082025351841345,
+      0.43205155416435403,
+      2.0594675579875883,
+      73.61802344621513,
+      0.9801866573326126,
+      0.0027260744475741286
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6739372456700932,
+      "peak_velocity": 0.9503805069963522,
+      "rfd": 704.1503607244304,
+      "power": 37.80433602163067,
+      "rom": 0.5563005402697452
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.038480236229481476,
+      "velocity_loss": 0.08274203947500129,
+      "remaining_reps": 9.549049054985748
+    }
+  },
+  {
+    "input_features": [
+      1.0230335788052103,
+      1.2492291380478087,
+      3.9777285166509135,
+      0.5870254381593217,
+      2.8667679964252146,
+      102.81988279050744,
+      0.903557291703404,
+      0.043946818932575155
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8845915322673029,
+      "peak_velocity": 1.2385615043740645,
+      "rfd": 803.8798050238473,
+      "power": 68.48342204741917,
+      "rom": 0.6018460719237679
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.03683941844369929,
+      "velocity_loss": -0.010857408592498716,
+      "remaining_reps": 9.601802294698436
+    }
+  },
+  {
+    "input_features": [
+      0.9035368387776066,
+      1.2810079188831267,
+      5.756854739962141,
+      0.6650935677386509,
+      2.2800702225816782,
+      118.54045449135238,
+      0.9636613979715609,
+      0.04394760615410562
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8168165215176417,
+      "peak_velocity": 1.1758194496731995,
+      "rfd": 1155.7232530236984,
+      "power": 94.09559250690724,
+      "rom": 0.6056195116771257
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.010597669388216976,
+      "velocity_loss": 0.0004963954628895706,
+      "remaining_reps": 9.536906552251855
+    }
+  },
+  {
+    "input_features": [
+      0.5430869099843867,
+      0.7617520590200226,
+      3.158603660667577,
+      0.5274213629855549,
+      2.050533765791627,
+      103.132374470558,
+      0.9837951573265744,
+      0.015767369446529296
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6790866177070651,
+      "peak_velocity": 0.9312484535627682,
+      "rfd": 642.6007498963211,
+      "power": 35.392495712388154,
+      "rom": 0.5850500581463521
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.057558513247245396,
+      "velocity_loss": 0.05370993199653083,
+      "remaining_reps": 9.215076453134072
+    }
+  },
+  {
+    "input_features": [
+      0.41602591797153315,
+      0.4161476704840553,
+      4.8942490069679785,
+      0.62748054641553,
+      2.0055390008909533,
+      103.94138074300898,
+      0.9295920090100597,
+      0.045980408847688614
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.5205853467150913,
+      "peak_velocity": 0.7171341692179533,
+      "rfd": 1010.4986302303325,
+      "power": 45.0971734219165,
+      "rom": 0.6309931005320846
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.06056585880567625,
+      "velocity_loss": 0.005128194153534063,
+      "remaining_reps": 7.5033099913627925
+    }
+  },
+  {
+    "input_features": [
+      0.5388906744023088,
+      0.6515086504641224,
+      4.897822743990039,
+      0.6783151140342495,
+      2.1578159759787967,
+      90.36928134676242,
+      0.9191944287863024,
+      0.0072650316340578894
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6042720179187038,
+      "peak_velocity": 0.7902562161401693,
+      "rfd": 1021.1298271814346,
+      "power": 54.75623010596169,
+      "rom": 0.6483693430651646
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.013475876701796743,
+      "velocity_loss": 0.009093872190110916,
+      "remaining_reps": 9.231642279862374
+    }
+  },
+  {
+    "input_features": [
+      0.6713023092702375,
+      0.8170460186963954,
+      4.35417735389621,
+      0.6483706294644626,
+      2.0681445312653848,
+      82.1179814573461,
+      0.9062275810510957,
+      0.03798853487605889
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6339995012770254,
+      "peak_velocity": 0.9062389126908568,
+      "rfd": 871.7842827607371,
+      "power": 44.128268341585624,
+      "rom": 0.5857364827528757
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.018746778458616484,
+      "velocity_loss": 0.026829532836110656,
+      "remaining_reps": 9.525246740342148
+    }
+  },
+  {
+    "input_features": [
+      0.6767632788893118,
+      1.0406329507134109,
+      3.213167288933382,
+      0.5290440547850451,
+      1.9632881045625281,
+      129.16945330295798,
+      0.9820351121168827,
+      0.0020710271544350125
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7259868143681678,
+      "peak_velocity": 0.9452757685042976,
+      "rfd": 675.955872165723,
+      "power": 57.16074253171586,
+      "rom": 0.5765776943776527
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.07437728875719612,
+      "velocity_loss": 0.04147900329523688,
+      "remaining_reps": 9.252060187621304
+    }
+  },
+  {
+    "input_features": [
+      0.9906756677603354,
+      1.0830793487481678,
+      5.380319574579751,
+      0.7857725828948381,
+      2.32639186023773,
+      125.92629035711992,
+      0.9592423822077805,
+      0.019337551500459085
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8539772761049464,
+      "peak_velocity": 1.1444186108905288,
+      "rfd": 1051.8413830436461,
+      "power": 92.79563720386976,
+      "rom": 0.6521103381449167
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.01397837944047911,
+      "velocity_loss": 0.006168165891734689,
+      "remaining_reps": 9.680154007402786
+    }
+  },
+  {
+    "input_features": [
+      0.3795429262178567,
+      0.5502183814816765,
+      5.237282386140267,
+      0.4657300269817206,
+      2.116064367588663,
+      110.47850865219456,
+      0.98843568097607,
+      0.04343009390161218
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6498984874483881,
+      "peak_velocity": 0.890679512127658,
+      "rfd": 1081.6534120155377,
+      "power": 60.762186310790966,
+      "rom": 0.5771031492631835
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.1400231247978425,
+      "velocity_loss": 0.10815293128801205,
+      "remaining_reps": 8.47035466810173
+    }
+  },
+  {
+    "input_features": [
+      0.9657305185449868,
+      1.357223954362365,
+      3.8607918356740973,
+      0.4809276544136175,
+      2.294561625210849,
+      135.16631132071223,
+      0.9892496097411541,
+      0.03769150392438817
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9203476510556873,
+      "peak_velocity": 1.214792305097324,
+      "rfd": 760.3709276071017,
+      "power": 99.41449499637058,
+      "rom": 0.5583756448201719
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.008777553037225883,
+      "velocity_loss": 0.046059668393984496,
+      "remaining_reps": 9.13489398122189
+    }
+  },
+  {
+    "input_features": [
+      0.6462382268756484,
+      0.9699276012395178,
+      5.324329612394093,
+      0.5038411352624391,
+      1.839760980075101,
+      80.45089638590241,
+      0.9182023521116771,
+      0.04669759437014237
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7972313169399423,
+      "peak_velocity": 1.1302503407617877,
+      "rfd": 1080.2769637938713,
+      "power": 62.646105752730236,
+      "rom": 0.5816266135631788
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.03603725029786692,
+      "velocity_loss": 0.01077205280206632,
+      "remaining_reps": 9.492942266267615
+    }
+  },
+  {
+    "input_features": [
+      0.9028632869065654,
+      1.1040768407715527,
+      2.824980863071357,
+      0.4215805227969322,
+      2.3695288128257643,
+      87.46324197936876,
+      0.9831024735905629,
+      0.03285294272210406
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8993425016216509,
+      "peak_velocity": 1.2214853170617532,
+      "rfd": 512.6731534379197,
+      "power": 63.78662139204419,
+      "rom": 0.5611204447913146
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.04294044054731948,
+      "velocity_loss": 0.061702200904911256,
+      "remaining_reps": 9.232041246591239
+    }
+  },
+  {
+    "input_features": [
+      0.7256655629782073,
+      0.8925142344764535,
+      4.6856783650198714,
+      0.7530225979825709,
+      2.2779813216177494,
+      122.61619316457754,
+      0.9316029814496255,
+      0.04377617616102342
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7058316711348683,
+      "peak_velocity": 0.9505967694789474,
+      "rfd": 929.8041744424767,
+      "power": 50.808071107340055,
+      "rom": 0.6074048827108258
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.015288091610734161,
+      "velocity_loss": 0.005939110625836505,
+      "remaining_reps": 8.922724611331942
+    }
+  },
+  {
+    "input_features": [
+      0.8118693589366819,
+      1.1827991907600535,
+      5.281166217611178,
+      0.7993869090508725,
+      1.7658443440060478,
+      148.5150457705946,
+      0.9236560701952868,
+      0.04767396622412976
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8245177230721288,
+      "peak_velocity": 1.1554715525609651,
+      "rfd": 1040.920473039598,
+      "power": 91.61672942983431,
+      "rom": 0.6771807904137473
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.07419205012883343,
+      "velocity_loss": 0.021626486762989436,
+      "remaining_reps": 9.224052865373128
+    }
+  },
+  {
+    "input_features": [
+      0.6259575432025736,
+      0.7863824144018157,
+      4.14550565559246,
+      0.5698303714653228,
+      1.3764911117092837,
+      136.64743131603615,
+      0.9328585413275352,
+      0.015528915606227323
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6783100028410705,
+      "peak_velocity": 0.9377294657694836,
+      "rfd": 798.9653031911193,
+      "power": 68.0993046602035,
+      "rom": 0.6071742589512049
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.08162264373874278,
+      "velocity_loss": 0.009274864245524983,
+      "remaining_reps": 8.353999428927002
+    }
+  },
+  {
+    "input_features": [
+      0.8494128650267003,
+      1.3592858895235482,
+      3.024056256254821,
+      0.568512593132694,
+      2.721441432579812,
+      125.31173476023814,
+      0.9546470065920765,
+      0.018983000794665625
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8813411221428821,
+      "peak_velocity": 1.1783456155941374,
+      "rfd": 601.502349107628,
+      "power": 84.23243424853102,
+      "rom": 0.611868315849432
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.013742922967068402,
+      "velocity_loss": 0.007212514827072317,
+      "remaining_reps": 8.614029666967777
+    }
+  },
+  {
+    "input_features": [
+      0.7031438540323062,
+      0.8878700967813742,
+      3.4533166390409393,
+      0.6753013461589324,
+      1.9570800590685329,
+      86.2080464955516,
+      0.9413344230932655,
+      0.03661544286870271
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7023399831296606,
+      "peak_velocity": 1.0220568589748547,
+      "rfd": 714.5662262840934,
+      "power": 41.244739548065745,
+      "rom": 0.6448393152179628
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.03097271150203694,
+      "velocity_loss": 0.04404704208070806,
+      "remaining_reps": 9.413053692259291
+    }
+  },
+  {
+    "input_features": [
+      0.6247508648356216,
+      0.7844100786928827,
+      4.928831405154106,
+      0.6112893537007881,
+      1.7625001083708909,
+      79.28720195163899,
+      0.9911449813275427,
+      0.02438047749462002
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6347704107349179,
+      "peak_velocity": 0.8458333822378117,
+      "rfd": 994.2525320679404,
+      "power": 47.35248216952739,
+      "rom": 0.60461610815309
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.014123822562045904,
+      "velocity_loss": 0.03479331366632374,
+      "remaining_reps": 9.456060493272497
+    }
+  },
+  {
+    "input_features": [
+      0.8818299689830106,
+      1.1613301186091947,
+      4.304094327137851,
+      0.7480464966350986,
+      1.8524490813782521,
+      107.69825338559559,
+      0.9233072293099115,
+      0.012051462937817975
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8156940343382786,
+      "peak_velocity": 1.1063662886228343,
+      "rfd": 907.2355219295625,
+      "power": 70.08500194070632,
+      "rom": 0.6051711414550005
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.024482359012166124,
+      "velocity_loss": 0.0211663705634286,
+      "remaining_reps": 9.51994377224039
+    }
+  },
+  {
+    "input_features": [
+      0.6192406439831308,
+      0.7902224938126907,
+      4.002504061366318,
+      0.46743640904271855,
+      2.0290271803742557,
+      102.6797399350418,
+      0.9242700319869301,
+      0.009795065235322031
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6754302326318803,
+      "peak_velocity": 0.9494048507584129,
+      "rfd": 802.331267632529,
+      "power": 52.511344395576835,
+      "rom": 0.5387291158298991
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.06697934057513269,
+      "velocity_loss": 0.06309959735503672,
+      "remaining_reps": 9.33563022015256
+    }
+  },
+  {
+    "input_features": [
+      0.9130708374571912,
+      1.2729646129802823,
+      4.428197980325542,
+      0.7091874665065612,
+      1.3460004124701404,
+      126.53814089992312,
+      0.9058295575055576,
+      0.017544852371809173
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8522931839756309,
+      "peak_velocity": 1.2224722218742141,
+      "rfd": 896.7840738680231,
+      "power": 84.69471648817864,
+      "rom": 0.6197381670935661
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.025043118467038217,
+      "velocity_loss": -0.0030945544857975404,
+      "remaining_reps": 9.353157447995308
+    }
+  },
+  {
+    "input_features": [
+      0.9821508197543096,
+      1.3881136680812263,
+      2.8435642028823516,
+      0.6910426815943933,
+      1.8178861094821337,
+      144.02318678480708,
+      0.9796318956370665,
+      0.044207254326465883
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9925949830422637,
+      "peak_velocity": 1.4699237962170162,
+      "rfd": 539.2847648123329,
+      "power": 119.67638577732383,
+      "rom": 0.6150339687597591
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.003738805279899643,
+      "velocity_loss": 0.05115012367773493,
+      "remaining_reps": 9.49889030841004
+    }
+  },
+  {
+    "input_features": [
+      0.6280888452095514,
+      0.8967231517275033,
+      3.764359168362679,
+      0.5697633588816152,
+      2.320515361974252,
+      149.5569478195402,
+      0.9851238629215869,
+      0.048704848437239434
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7132042717412811,
+      "peak_velocity": 0.9727425420031279,
+      "rfd": 730.7213009526819,
+      "power": 66.80544345720782,
+      "rom": 0.585632025488642
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.1081115509904042,
+      "velocity_loss": 0.03869400565466975,
+      "remaining_reps": 7.840242767910518
+    }
+  },
+  {
+    "input_features": [
+      0.8704883307999363,
+      1.1723439148474148,
+      3.885848782473535,
+      0.6631888765391986,
+      1.8020953412074894,
+      128.62350837768616,
+      0.9785353283052393,
+      0.03582622049417949
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8178278304435871,
+      "peak_velocity": 1.0908786562844959,
+      "rfd": 767.7989910232166,
+      "power": 76.94330017098933,
+      "rom": 0.6211573082729752
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.01709917268596535,
+      "velocity_loss": 0.018358390886702616,
+      "remaining_reps": 9.768799883044972
+    }
+  },
+  {
+    "input_features": [
+      0.9302015301891058,
+      1.1836623626479392,
+      5.1108389648836825,
+      0.5737293618255085,
+      2.0072103560556274,
+      81.68425304048192,
+      0.9644193925627822,
+      0.028115859982252252
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8954251782070994,
+      "peak_velocity": 1.2023982145583478,
+      "rfd": 1008.8486653175346,
+      "power": 66.86874167229526,
+      "rom": 0.6027938049889576
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.016997509463955188,
+      "velocity_loss": 0.043942460597773195,
+      "remaining_reps": 9.466480485695266
+    }
+  },
+  {
+    "input_features": [
+      0.6756209050082284,
+      0.8287348534168535,
+      5.286319012973803,
+      0.5073260660520718,
+      1.7999827062273643,
+      130.79513192098887,
+      0.926265956302203,
+      0.03358798392022101
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7612559591918472,
+      "peak_velocity": 1.061137741954447,
+      "rfd": 1060.5897264956182,
+      "power": 86.57547645560491,
+      "rom": 0.58811933163445
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.050955899957820155,
+      "velocity_loss": 0.0038115996455544143,
+      "remaining_reps": 8.95918406206045
+    }
+  },
+  {
+    "input_features": [
+      0.8339897039395593,
+      1.0990534650145116,
+      3.6905267954813983,
+      0.5147177491070994,
+      2.025537887139676,
+      72.14483660406044,
+      0.9362665717516678,
+      0.040111196600357196
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7683045706322724,
+      "peak_velocity": 1.0846298296176768,
+      "rfd": 700.8965969647959,
+      "power": 53.444814612252955,
+      "rom": 0.5920838883565427
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.008155987512454735,
+      "velocity_loss": 0.030994988575423973,
+      "remaining_reps": 9.187341140926392
+    }
+  },
+  {
+    "input_features": [
+      0.5471015187055509,
+      0.757077376924595,
+      3.346609165246673,
+      0.5664323262096248,
+      1.682051692980909,
+      108.0504604450104,
+      0.9050405544236033,
+      0.049649197445405246
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6224245655608484,
+      "peak_velocity": 0.8481028189256046,
+      "rfd": 690.9764012749847,
+      "power": 49.67052649991985,
+      "rom": 0.6053799157796005
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.009135975711936806,
+      "velocity_loss": 0.0050385623105126814,
+      "remaining_reps": 8.875968791418526
+    }
+  },
+  {
+    "input_features": [
+      0.9358023861573667,
+      1.0694864719118091,
+      2.8191969183528824,
+      0.5748579487160699,
+      2.183362669116437,
+      104.56044378530166,
+      0.9078110436714157,
+      0.047773119401773784
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8472126044650159,
+      "peak_velocity": 1.1824189690496174,
+      "rfd": 529.8742565932744,
+      "power": 88.61595199672925,
+      "rom": 0.5892339787740927
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.007750573253934925,
+      "velocity_loss": 0.05594288829356818,
+      "remaining_reps": 9.860559747031324
+    }
+  },
+  {
+    "input_features": [
+      0.820525925873534,
+      1.0538015253191577,
+      3.289527169879008,
+      0.6062552462152536,
+      2.2567948017844657,
+      105.08452244793776,
+      0.9238613786710977,
+      0.0339931537365287
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7597497039994,
+      "peak_velocity": 1.018369989173925,
+      "rfd": 664.5765945372638,
+      "power": 52.97986343787696,
+      "rom": 0.6241032842331631
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.01413347928793074,
+      "velocity_loss": 0.05025484325742309,
+      "remaining_reps": 9.427513684174757
+    }
+  },
+  {
+    "input_features": [
+      1.0223776169894359,
+      1.4822476256002466,
+      4.716790025001591,
+      0.6233960569824442,
+      2.1980939643546287,
+      96.10672545456836,
+      0.9761952757700626,
+      0.022638669392651994
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9740747178164598,
+      "peak_velocity": 1.397295520823498,
+      "rfd": 929.9646950642981,
+      "power": 95.10415701328137,
+      "rom": 0.6155398895202617
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.04792048594809266,
+      "velocity_loss": 0.041580547323522815,
+      "remaining_reps": 9.437029742862855
+    }
+  },
+  {
+    "input_features": [
+      0.7071937567489412,
+      0.8974366050496934,
+      3.866607370796152,
+      0.44629498452771066,
+      1.471258198772402,
+      124.96038784709464,
+      0.9804236496979941,
+      0.030696231399174014
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7209609377364827,
+      "peak_velocity": 0.8982340356769911,
+      "rfd": 788.5537477143419,
+      "power": 64.13422498147924,
+      "rom": 0.5059335697939298
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.06665800051104004,
+      "velocity_loss": 0.0499297379647808,
+      "remaining_reps": 10.05212451505545
+    }
+  },
+  {
+    "input_features": [
+      0.9020308386081424,
+      1.1525590524839449,
+      3.8300519487406612,
+      0.5603234009683422,
+      2.1614653435251956,
+      71.60659445419982,
+      0.9642902108154252,
+      0.007644266493215646
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8513500499686447,
+      "peak_velocity": 1.178652927706053,
+      "rfd": 785.944640474207,
+      "power": 54.07868241952789,
+      "rom": 0.611844542284658
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.011779808840872596,
+      "velocity_loss": 0.0656614890383634,
+      "remaining_reps": 9.411477826760354
+    }
+  },
+  {
+    "input_features": [
+      1.0262598290404876,
+      1.3718494247607982,
+      5.468533902241932,
+      0.5850012528647255,
+      1.9350052036086904,
+      145.90061340422739,
+      0.9860919578196687,
+      0.0476703695296611
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9366184660732941,
+      "peak_velocity": 1.2856760537196583,
+      "rfd": 1097.1680167833242,
+      "power": 125.93465806370679,
+      "rom": 0.5791917319022578
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.01285649276808376,
+      "velocity_loss": 0.0021124158664311693,
+      "remaining_reps": 9.32348942205735
+    }
+  },
+  {
+    "input_features": [
+      0.8134702595561562,
+      1.0090413160100817,
+      5.567649750461474,
+      0.5444515031664013,
+      1.8474092691817332,
+      81.59329987102173,
+      0.9220609642641517,
+      0.027531800667369766
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8006702557426201,
+      "peak_velocity": 1.124928783992601,
+      "rfd": 1095.8165260026938,
+      "power": 58.72757014567768,
+      "rom": 0.5871260669755163
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.007185478222298855,
+      "velocity_loss": 0.017226142147072604,
+      "remaining_reps": 9.552378036749563
+    }
+  },
+  {
+    "input_features": [
+      0.5708772032278999,
+      0.8067676367151007,
+      1.9927517759361906,
+      0.6616371068872844,
+      1.887932095760695,
+      108.17879662671913,
+      0.9770387492634531,
+      0.027112080312679115
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6352440291082854,
+      "peak_velocity": 0.8644705970509604,
+      "rfd": 402.00464485160313,
+      "power": 48.37697118114816,
+      "rom": 0.6241036776862364
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.06896888072493931,
+      "velocity_loss": 0.003280539978320937,
+      "remaining_reps": 9.16288877917418
+    }
+  },
+  {
+    "input_features": [
+      0.8320244963326904,
+      1.0016391629304218,
+      3.2810572298382747,
+      0.6139581478636279,
+      2.4709998123592323,
+      81.06753690824047,
+      0.9285593263461428,
+      0.026132966149818745
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7587828259336001,
+      "peak_velocity": 1.0129090657093514,
+      "rfd": 664.5282196861173,
+      "power": 35.97597079090346,
+      "rom": 0.6358091873312832
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.014882854320999658,
+      "velocity_loss": 0.06212455820239608,
+      "remaining_reps": 9.41830194846013
+    }
+  },
+  {
+    "input_features": [
+      0.7979025142778673,
+      0.9393804505465728,
+      4.6268431074478205,
+      0.41963151441033664,
+      2.5775227489589265,
+      143.1432567094013,
+      0.9200514350768751,
+      0.04105900351841991
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7689268150101615,
+      "peak_velocity": 1.026551698524633,
+      "rfd": 878.1041531701183,
+      "power": 70.52984933919943,
+      "rom": 0.5344717863412345
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.006272981669853447,
+      "velocity_loss": 0.0015917598439706554,
+      "remaining_reps": 9.233461576992822
+    }
+  },
+  {
+    "input_features": [
+      0.7323603166728345,
+      0.941655688365237,
+      4.505392734487579,
+      0.5024114456545478,
+      2.2049302092698055,
+      105.61788745460402,
+      0.9577992206489888,
+      0.00849270433257121
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6761125618581856,
+      "peak_velocity": 0.9100966178407651,
+      "rfd": 944.6111127360552,
+      "power": 43.41879926920148,
+      "rom": 0.528297808804476
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.026509180432949975,
+      "velocity_loss": 0.05335988160932016,
+      "remaining_reps": 9.094041311900416
+    }
+  },
+  {
+    "input_features": [
+      0.9974654259020904,
+      1.4081693464483576,
+      4.168092575410782,
+      0.6967299566181423,
+      2.5737047652776,
+      91.90266091055253,
+      0.9758605851278003,
+      0.033124963063131556
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9656301430644967,
+      "peak_velocity": 1.2964775540335907,
+      "rfd": 849.3949874897976,
+      "power": 63.79149988074325,
+      "rom": 0.6259201421429431
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.02371140255447965,
+      "velocity_loss": -0.003207536534275926,
+      "remaining_reps": 9.368481501299566
+    }
+  },
+  {
+    "input_features": [
+      1.0380695425472584,
+      1.3985303189282146,
+      4.596521481583811,
+      0.4967399690904321,
+      2.12658780541446,
+      143.5317858567064,
+      0.9367212181383149,
+      0.04821492842583812
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9996798613091553,
+      "peak_velocity": 1.3912341369410197,
+      "rfd": 912.3159696314232,
+      "power": 108.11137691184881,
+      "rom": 0.5754596138125513
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.010723510971666197,
+      "velocity_loss": -0.0009198517696571845,
+      "remaining_reps": 9.701692546062494
+    }
+  },
+  {
+    "input_features": [
+      0.586026838467816,
+      0.74445823798978,
+      4.212852267162684,
+      0.6277619340182529,
+      2.073162889601097,
+      107.6284589018363,
+      0.9913171621413138,
+      0.033302067624097015
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.682276080335588,
+      "peak_velocity": 0.9442490857886509,
+      "rfd": 843.2313451723287,
+      "power": 41.441446959916874,
+      "rom": 0.5864717227961712
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.03825142756352591,
+      "velocity_loss": 0.026781790846796008,
+      "remaining_reps": 9.310646390845028
+    }
+  },
+  {
+    "input_features": [
+      0.9919019719522089,
+      1.2953249336702406,
+      2.8917676372393224,
+      0.6782872724652396,
+      2.080506747386872,
+      92.39152813399201,
+      0.9794233885647415,
+      0.03999064519173731
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9592741113741837,
+      "peak_velocity": 1.3134148667774503,
+      "rfd": 517.2246416883295,
+      "power": 78.439935794331,
+      "rom": 0.6245138503594361
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.031007056972600415,
+      "velocity_loss": 0.02029300909640358,
+      "remaining_reps": 9.800801287447301
+    }
+  },
+  {
+    "input_features": [
+      1.0745760390091403,
+      1.438437474749121,
+      5.325412235410348,
+      0.6230234113737511,
+      2.453749480252662,
+      72.25235406100205,
+      0.9088598202919427,
+      0.03625148088579374
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9369562127165245,
+      "peak_velocity": 1.2977583262700738,
+      "rfd": 1084.656546800877,
+      "power": 54.909412362486734,
+      "rom": 0.6253833276998322
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.03189663364289356,
+      "velocity_loss": 0.031651222119280814,
+      "remaining_reps": 9.656862592742756
+    }
+  },
+  {
+    "input_features": [
+      1.041347039147921,
+      1.3799498883219874,
+      5.5678192811957015,
+      0.7744354117732528,
+      2.412570514652308,
+      78.39930550831595,
+      0.966790860425093,
+      0.02392349883810252
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.8987458971588353,
+      "peak_velocity": 1.2514105086736678,
+      "rfd": 1061.7417437456616,
+      "power": 63.42695001328464,
+      "rom": 0.6690824809864
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.0630114033893664,
+      "velocity_loss": -0.010584444083497555,
+      "remaining_reps": 9.50360013607661
+    }
+  },
+  {
+    "input_features": [
+      1.0502875119190915,
+      1.578787044093892,
+      3.2400054717652176,
+      0.7101674678549963,
+      1.5906413050891903,
+      130.996487933921,
+      0.9431112621803035,
+      0.008853738585002735
+    ],
+    "performance_prediction": {
+      "mean_velocity": 1.0646873949321813,
+      "peak_velocity": 1.5491541687342243,
+      "rfd": 659.3270768230111,
+      "power": 127.17327251158775,
+      "rom": 0.6079668052479577
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.00034993430350108157,
+      "velocity_loss": 0.03354041383089153,
+      "remaining_reps": 9.584289883255911
+    }
+  },
+  {
+    "input_features": [
+      0.48157353317240353,
+      0.6258008201811569,
+      4.37097878743908,
+      0.631919062308948,
+      1.7802536249379437,
+      129.1329886022787,
+      0.9500222838908896,
+      0.03232286091386607
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.5534943308599669,
+      "peak_velocity": 0.7807291766642348,
+      "rfd": 919.3539033944181,
+      "power": 41.555916550118184,
+      "rom": 0.6067722969823174
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.10788022025954902,
+      "velocity_loss": 0.020605009578714542,
+      "remaining_reps": 7.6638803408134875
+    }
+  },
+  {
+    "input_features": [
+      0.7116740910738666,
+      0.8472849355385842,
+      3.6320000598826,
+      0.48964010408140957,
+      1.4610664160271156,
+      117.45718725885925,
+      0.9501759173368551,
+      0.015890718670087817
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7001703527941185,
+      "peak_velocity": 0.9602426559378094,
+      "rfd": 694.8502235124199,
+      "power": 60.151042225429165,
+      "rom": 0.5701880887498431
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.0745700592178751,
+      "velocity_loss": 0.02390480615510747,
+      "remaining_reps": 9.834523351757392
+    }
+  },
+  {
+    "input_features": [
+      1.1926785162684177,
+      1.4993157396436945,
+      3.381483961565052,
+      0.664150523168752,
+      1.7223143019949774,
+      135.59734755299047,
+      0.9720388605299426,
+      0.03218670734975792
+    ],
+    "performance_prediction": {
+      "mean_velocity": 1.085035338601281,
+      "peak_velocity": 1.5353376269854224,
+      "rfd": 685.7028295838563,
+      "power": 119.60067631359449,
+      "rom": 0.5961889598348622
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.01399235386415662,
+      "velocity_loss": 0.05100812162019634,
+      "remaining_reps": 9.865958388980415
+    }
+  },
+  {
+    "input_features": [
+      1.0214710088334966,
+      1.2248980078182066,
+      3.4761814363309735,
+      0.6121482810071638,
+      3.118350003428956,
+      136.96057510067052,
+      0.9913067501042366,
+      0.04698378957548965
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9117313630901226,
+      "peak_velocity": 1.2850183102521013,
+      "rfd": 688.1235580945929,
+      "power": 85.10259838743542,
+      "rom": 0.6066177095777635
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.0009972346328086384,
+      "velocity_loss": 0.02147137744364147,
+      "remaining_reps": 9.047687215040298
+    }
+  },
+  {
+    "input_features": [
+      0.9544800284262751,
+      1.4148112810793212,
+      4.709339581139045,
+      0.5974113662346446,
+      1.7355580104757962,
+      141.82853633938277,
+      0.9455697151038062,
+      0.0034796967716715314
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9180121886632684,
+      "peak_velocity": 1.3079914324867914,
+      "rfd": 962.4328066582897,
+      "power": 98.19850150898894,
+      "rom": 0.611159398672805
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.006625687035527961,
+      "velocity_loss": -0.02911064728449137,
+      "remaining_reps": 9.240819866014412
+    }
+  },
+  {
+    "input_features": [
+      0.7360846782807634,
+      0.857014011755547,
+      3.428447839807392,
+      0.4607187213669555,
+      1.6289615328511926,
+      77.29316878054684,
+      0.9882714691086586,
+      0.034635312673270656
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7025668269407777,
+      "peak_velocity": 1.021453092124696,
+      "rfd": 719.3435686719673,
+      "power": 42.54832989696064,
+      "rom": 0.5641690258974407
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.0021559630406568497,
+      "velocity_loss": 0.036064322600143014,
+      "remaining_reps": 9.411478427404978
+    }
+  },
+  {
+    "input_features": [
+      0.5718111024267061,
+      0.8224615046131001,
+      5.603206140962733,
+      0.7185263435137922,
+      1.886174153862742,
+      144.4031995142351,
+      0.9005617248995441,
+      0.00395992384190037
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7032875947889898,
+      "peak_velocity": 0.9512883862072685,
+      "rfd": 1084.2203225996222,
+      "power": 84.43378669118928,
+      "rom": 0.6388947633424614
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.15277983022862088,
+      "velocity_loss": 0.04507319357086838,
+      "remaining_reps": 7.683226905695363
+    }
+  },
+  {
+    "input_features": [
+      0.5746811654078908,
+      0.790007307312657,
+      4.258558570766305,
+      0.6635851544712853,
+      1.6502770841567114,
+      125.27060041972464,
+      0.9140964102602144,
+      0.04417059401233048
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6460781989956367,
+      "peak_velocity": 0.9310249869767127,
+      "rfd": 851.2130397933307,
+      "power": 46.46137483857161,
+      "rom": 0.6126388346137663
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.043206167525657785,
+      "velocity_loss": -0.006711277900107102,
+      "remaining_reps": 8.449003523973312
+    }
+  },
+  {
+    "input_features": [
+      0.43752854346557885,
+      0.5915716279686128,
+      3.2851417309969104,
+      0.5920761207162011,
+      1.8405050656045567,
+      120.42509458513099,
+      0.9070227457593084,
+      0.02216467644499619
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6292340410073196,
+      "peak_velocity": 0.8232185611075437,
+      "rfd": 663.8308214629322,
+      "power": 52.322625304538434,
+      "rom": 0.6251458582393152
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.12524028186547412,
+      "velocity_loss": 0.015107519974062733,
+      "remaining_reps": 7.450301033392685
+    }
+  },
+  {
+    "input_features": [
+      0.7965547634447312,
+      0.8817235648263975,
+      5.498043335389902,
+      0.6024036078286306,
+      2.2751496991958255,
+      138.42156157376743,
+      0.955999290928141,
+      0.044438690948555355
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7740169913756767,
+      "peak_velocity": 1.0702746761640756,
+      "rfd": 1069.626024380277,
+      "power": 94.13718203673103,
+      "rom": 0.6021618060262195
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.0066136974908875545,
+      "velocity_loss": 6.333095296395808e-05,
+      "remaining_reps": 8.819620934455632
+    }
+  },
+  {
+    "input_features": [
+      0.7535595953261784,
+      0.9326469807422788,
+      4.857269542189178,
+      0.5472659324470559,
+      1.7375327162661185,
+      88.16943027510516,
+      0.9622718792658698,
+      0.029244955638732507
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7250541497110535,
+      "peak_velocity": 0.9998903723503544,
+      "rfd": 982.7553144896525,
+      "power": 49.85338937149547,
+      "rom": 0.5874521436253644
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.012378663860331943,
+      "velocity_loss": 0.037491372317848465,
+      "remaining_reps": 9.63190154882573
+    }
+  },
+  {
+    "input_features": [
+      0.5505450230741218,
+      0.7374645159474896,
+      3.682308609799556,
+      0.7396968566715763,
+      2.0404580654533757,
+      92.58174287701985,
+      0.939413800410771,
+      0.03382316039520437
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.672636572545452,
+      "peak_velocity": 0.9516243097948051,
+      "rfd": 704.4972243562405,
+      "power": 46.283741528358235,
+      "rom": 0.6418304112929211
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.044336124281764075,
+      "velocity_loss": 0.024140026881934964,
+      "remaining_reps": 9.034819204292658
+    }
+  },
+  {
+    "input_features": [
+      0.7985048590518263,
+      1.0663313891597854,
+      4.1989807318729895,
+      0.43274889611300793,
+      1.8186698902995473,
+      124.21897174199498,
+      0.9246073651238291,
+      0.019214487327364305
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7539486257964266,
+      "peak_velocity": 1.0412877864339312,
+      "rfd": 857.9813405028715,
+      "power": 68.32333199867378,
+      "rom": 0.5526603944911771
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.05827906437858821,
+      "velocity_loss": 0.031120055488561615,
+      "remaining_reps": 9.674021075955288
+    }
+  },
+  {
+    "input_features": [
+      0.8402528825186731,
+      1.1666355288609187,
+      3.721284482950581,
+      0.5337143369000286,
+      1.8994094438584126,
+      122.82714534012726,
+      0.9761441417680341,
+      0.024030756010235407
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7947890242169813,
+      "peak_velocity": 1.1046300274463983,
+      "rfd": 702.2872455416195,
+      "power": 67.08948454969529,
+      "rom": 0.5806225757565621
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.0229729068332227,
+      "velocity_loss": 0.045381413959219755,
+      "remaining_reps": 9.60119796831106
+    }
+  },
+  {
+    "input_features": [
+      1.2612626629952974,
+      1.6326048660648016,
+      3.8948797991759396,
+      0.5086548036872064,
+      1.8268720096882223,
+      94.96132024403842,
+      0.942482063293546,
+      0.002577548949622888
+    ],
+    "performance_prediction": {
+      "mean_velocity": 1.0010334006600032,
+      "peak_velocity": 1.4250524102433055,
+      "rfd": 769.1230904963448,
+      "power": 73.56209635067452,
+      "rom": 0.6062653227912459
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.05164922420592544,
+      "velocity_loss": 0.06406962887350286,
+      "remaining_reps": 9.642261412428116
+    }
+  },
+  {
+    "input_features": [
+      0.7949396822874084,
+      0.9841050175785119,
+      4.495209554640205,
+      0.5810993627851616,
+      2.064409589353454,
+      89.81842699010562,
+      0.9826805646493875,
+      0.0030737413519984938
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7137663179894005,
+      "peak_velocity": 0.9574762944860891,
+      "rfd": 987.4424847562371,
+      "power": 53.476715385331744,
+      "rom": 0.5716419291905944
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.01414532633938903,
+      "velocity_loss": 0.05097919836513744,
+      "remaining_reps": 9.310919819883297
+    }
+  },
+  {
+    "input_features": [
+      0.6510819230132852,
+      0.8320336714525901,
+      2.404311480182397,
+      0.7524758305728845,
+      1.872078978034635,
+      128.1730043556191,
+      0.9571168895290907,
+      0.03454595880504099
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6643497888677748,
+      "peak_velocity": 0.8933197017212119,
+      "rfd": 423.9635197479184,
+      "power": 69.71644956016254,
+      "rom": 0.6396927039254887
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.07130449390278773,
+      "velocity_loss": 0.009543303501180517,
+      "remaining_reps": 8.588094648850554
+    }
+  },
+  {
+    "input_features": [
+      0.786602702231057,
+      0.980921422072303,
+      3.866171716800322,
+      0.7484016490428884,
+      1.5839101090932894,
+      73.18348982763338,
+      0.9261258009610108,
+      0.004909783310385363
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7756695515181236,
+      "peak_velocity": 1.1214895521768833,
+      "rfd": 752.2652298272177,
+      "power": 56.12470250979039,
+      "rom": 0.6368175310273537
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.00938816618713606,
+      "velocity_loss": -0.01028632161168161,
+      "remaining_reps": 9.324577278982064
+    }
+  },
+  {
+    "input_features": [
+      0.6361983767081812,
+      0.8529848433019077,
+      3.9077109610836036,
+      0.7077395861622562,
+      2.3097238914003793,
+      106.25407466330043,
+      0.9811304010689448,
+      0.04541420834587794
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7178182150458958,
+      "peak_velocity": 0.9673742202636402,
+      "rfd": 772.2065345457327,
+      "power": 46.777639605847355,
+      "rom": 0.5974522657527434
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.04944955120442521,
+      "velocity_loss": -0.006053153700219069,
+      "remaining_reps": 9.302303161570508
+    }
+  },
+  {
+    "input_features": [
+      0.7403813920740081,
+      0.9929735034682715,
+      2.3418031500042646,
+      0.4897562730681536,
+      2.2798050828866003,
+      78.72838998144287,
+      0.9782822629514517,
+      0.021982270090074807
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7125491802812391,
+      "peak_velocity": 0.9528710838760578,
+      "rfd": 440.75027183314273,
+      "power": 41.665775061122105,
+      "rom": 0.587540909536637
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.06943851050651972,
+      "velocity_loss": 0.06584268269324799,
+      "remaining_reps": 9.269367075751314
+    }
+  },
+  {
+    "input_features": [
+      1.133605687708978,
+      1.3866781634037497,
+      4.0290755458830665,
+      0.4147265388318021,
+      2.3696490572331843,
+      113.49923269599358,
+      0.9470535193567388,
+      0.0024074462512842345
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9439958453102532,
+      "peak_velocity": 1.3412925120654657,
+      "rfd": 837.8730117341067,
+      "power": 101.34424114084636,
+      "rom": 0.6032023501448258
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.013371684481700077,
+      "velocity_loss": 0.04924895304171549,
+      "remaining_reps": 9.457918829812778
+    }
+  },
+  {
+    "input_features": [
+      0.6476417634088092,
+      0.8176163545244173,
+      4.904434350676508,
+      0.5975503985482742,
+      1.7208257585106275,
+      139.24943826153094,
+      0.9813733490624043,
+      0.021183728794147705
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.6616058139585543,
+      "peak_velocity": 0.8830890848125076,
+      "rfd": 1005.8293877010885,
+      "power": 65.88375158913915,
+      "rom": 0.6137510401440113
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.08729458609379417,
+      "velocity_loss": 0.04639262190837794,
+      "remaining_reps": 8.795324902804824
+    }
+  },
+  {
+    "input_features": [
+      0.9880800132015584,
+      1.1145777497463598,
+      3.8042415930051665,
+      0.5890599648749318,
+      2.0414180709719694,
+      92.04197422919464,
+      0.910864799306226,
+      0.04944353914898457
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.9093704745367994,
+      "peak_velocity": 1.2643825163267564,
+      "rfd": 725.1525418582246,
+      "power": 54.55275423021632,
+      "rom": 0.6195847037031246
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.019715148050803565,
+      "velocity_loss": 0.0378682616373682,
+      "remaining_reps": 9.970755407348904
+    }
+  },
+  {
+    "input_features": [
+      0.8225397018093933,
+      1.1417572815886659,
+      5.076161427352879,
+      0.6837211858363628,
+      1.7307125072564886,
+      101.76660862669353,
+      0.9601646556176567,
+      0.017641159573335157
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.865812482109761,
+      "peak_velocity": 1.1579725507969025,
+      "rfd": 1006.2964888297862,
+      "power": 80.09388625857576,
+      "rom": 0.6143484820940245
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": -0.010296507631784607,
+      "velocity_loss": 0.015292635625467427,
+      "remaining_reps": 9.507854507644705
+    }
+  },
+  {
+    "input_features": [
+      0.8117801586639678,
+      1.1108494304933165,
+      4.3567047586511976,
+      0.6648876605460992,
+      2.3710084549056276,
+      110.97259851293322,
+      0.9254463485787914,
+      0.022747308249871662
+    ],
+    "performance_prediction": {
+      "mean_velocity": 0.7492010352920903,
+      "peak_velocity": 1.0245629427929095,
+      "rfd": 898.6414923820402,
+      "power": 62.3604344850123,
+      "rom": 0.5801969356282819
+    },
+    "technique_prediction": {
+      "class": "excellent",
+      "class_index": 0,
+      "probabilities": [
+        1.0
+      ]
+    },
+    "fatigue_prediction": {
+      "fatigue_level": 0.004274765985068554,
+      "velocity_loss": 0.027443481114293677,
+      "remaining_reps": 9.151749541265515
+    }
+  }
+]

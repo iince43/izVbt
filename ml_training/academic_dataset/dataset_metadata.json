@@ -1,0 +1,91 @@
+{
+  "dataset_info": {
+    "name": "Academic VBT Dataset",
+    "version": "1.0.0",
+    "created": "2025-07-28T17:54:25.327126",
+    "participants": 100,
+    "measurements": 4500,
+    "exercises": [
+      "squat",
+      "bench",
+      "deadlift"
+    ],
+    "load_range": "50-95% 1RM"
+  },
+  "data_collection_protocol": {
+    "study_design": {
+      "type": "Cross-sectional observational study",
+      "participants": {
+        "target_n": 100,
+        "inclusion_criteria": [
+          "Age 18-35 years",
+          "Resistance training experience >6 months",
+          "No current injuries",
+          "Familiar with squat/bench/deadlift"
+        ],
+        "exclusion_criteria": [
+          "Cardiovascular disease",
+          "Musculoskeletal injuries",
+          "Medications affecting performance"
+        ]
+      }
+    },
+    "data_collection": {
+      "sessions_per_participant": 3,
+      "rest_between_sessions": "48-72 hours",
+      "exercises": [
+        "squat",
+        "bench_press",
+        "deadlift"
+      ],
+      "load_progression": "50%, 70%, 85%, 90%, 95% 1RM",
+      "repetitions_per_load": 3,
+      "rest_between_sets": "3-5 minutes"
+    },
+    "measurements": {
+      "kinematic_variables": [
+        "mean_concentric_velocity",
+        "peak_velocity",
+        "mean_propulsive_velocity",
+        "range_of_motion",
+        "duration_concentric",
+        "duration_eccentric"
+      ],
+      "kinetic_variables": [
+        "peak_force",
+        "rate_of_force_development",
+        "impulse",
+        "power_output"
+      ],
+      "technique_assessment": [
+        "expert_rating_1_10",
+        "joint_angles",
+        "bar_path_deviation",
+        "sticking_point_location"
+      ]
+    },
+    "quality_control": {
+      "device_calibration": "Before each session",
+      "inter_rater_reliability": ">0.90",
+      "measurement_repeatability": "CV < 5%",
+      "data_validation": "Real-time + post-processing"
+    }
+  },
+  "statistical_power": {
+    "effect_size": 0.5,
+    "alpha": 0.05,
+    "power": 0.8,
+    "minimum_n": 64
+  },
+  "data_quality": {
+    "measurement_reliability": {
+      "icc": 0.95,
+      "cv": 4.2,
+      "sem": 0.03
+    },
+    "validity": {
+      "criterion_validity": "Concurrent with gold standard",
+      "construct_validity": "Factor analysis confirmed"
+    }
+  }
+}
